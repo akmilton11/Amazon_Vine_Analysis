@@ -6,7 +6,7 @@ I'm analyzing Amazon reviews written by members of the paid Amazon Vine program.
 
 ### Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-![]https://github.com/akmilton11/Amazon_Vine_Analysis/blob/main/Images/Data%20Outputs.PNG
+![](https://github.com/akmilton11/Amazon_Vine_Analysis/blob/main/Images/Data%20Outputs.PNG)
 
 * How many Vine reviews and non-Vine reviews were there?
 
