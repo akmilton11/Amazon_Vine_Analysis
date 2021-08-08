@@ -7,16 +7,23 @@ I'm analyzing Amazon reviews written by members of the paid Amazon Vine program.
 ### Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
 * How many Vine reviews and non-Vine reviews were there?
+
 Total of paid vine reviews of: 1,266
+
 Total of un-paid vine reviews of: 61,849
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 Total of paid vine 5 star reviews: 432
+
 Total of un-paid vine 5 star reviews: 29,950
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 Percentage of paid vine 5 star reviews: 34.12%
+
 Percentage of un-paid vine 5 star reviews: 48.42%
 
 
-### Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+### Summary:
+I don't think there is any positive bias for reviews relating to the Vine program. More people outside of the program were willing to provide a review, and in turn actually provided a higher rating compared to the paid service. One additional analysis we could perform using the data provided is factor in the verified_purchase data. Analyzing  reviews is great, but if there is not confirmation on whether the product was purchased we could be dealing with fake reviews.
